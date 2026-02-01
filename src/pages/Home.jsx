@@ -2,7 +2,7 @@ import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
 
 import { homeSection } from '../data/HomeSection'
-import { coursesSection } from '../data/coursesSection'
+import { coursesSection } from '../data/CoursesSection'
 import { tutorsSection, tutorsList } from '../data/TutorsSection'
 import { partnersSection, partnersList } from '../data/PartnersSection'
 import { contactSection } from '../data/ContactSection'
